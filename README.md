@@ -14,4 +14,4 @@ Node.js seems like a powerful runtime for building server-side applications. Loo
 Resources:
 
     Node.js Official Documentation
-    Node.js Crash Course on YouTube
+    Node.js freecodecamp on YouTube
