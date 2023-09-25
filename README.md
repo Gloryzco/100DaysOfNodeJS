@@ -1,6 +1,6 @@
-# 31DaysOfNodeJS&ExpressJS
+# NodeJS-ExpressJS-Learning
 
-Welcome to my 31 Days of Code journey in Node.js and Express.JS! In this challenge, I'll be dedicating the next 31 days to learning, practicing, and mastering Node.js as my third programming language. This README will serve as a record of my progress, resources, and thoughts throughout this exciting journey.
+Welcome to my ^^^ Days of Code journey in Node.js and Express.JS! In this challenge, I'll be dedicating the next few days to learning, practicing, and mastering Node.js as my third programming language. This README will serve as a record of my progress, resources, and thoughts throughout this exciting journey.
 Day 1: [Date]
 
 Thoughts:
